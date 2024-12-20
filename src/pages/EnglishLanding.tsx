@@ -96,7 +96,8 @@ export default function EnglishLanding() {
           <PricingCard
             title="First Step"
             description="Perfect for small businesses or startups that are getting started and need economical and intelligent service by Zynko."
-            price="97"
+            currency='U$'
+            price="237"
             priceNote="limited time offer"
           />
         </div>

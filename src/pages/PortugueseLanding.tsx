@@ -96,7 +96,8 @@ export default function PortugueseLanding() {
           <PricingCard
             title="Primeiro Passo"
             description="Perfeito para pequenas empresas ou startups que estão começando e precisam de atendimento econômico e inteligente pelo Zynko."
-            price="97"
+            currency='R$'
+            price="599.21"
             priceNote="oferta por tempo limitado"
           />
         </div>
